@@ -1,2 +1,2 @@
 # herder
-Python Multiprocessing with Resource Monitoring (CPU, memory) Constraints
+Python Multiprocessing with Automatic Handling of Resource (CPU & Memory) Constraints
