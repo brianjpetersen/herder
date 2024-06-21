@@ -1,0 +1,10 @@
+name: herder-dev
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - psutil
+  - dill
+  # development dependencies
+  - ipython
+  - black
